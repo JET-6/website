@@ -1,8 +1,20 @@
 body {
     background-color: PapayaWhip;
-    color: lime;
+    color: palegreen;
 }
 
 h1 {
+  color: red;
+}
+
+h2 {
+  color: darkorange;
+}
+
+p {
+  color: darkgrey;
+}
+
+footer {
   color: red;
 }
