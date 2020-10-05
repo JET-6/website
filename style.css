@@ -1,6 +1,7 @@
 body {
     background-color: PapayaWhip;
-    color: palegreen;
+    color: palegreen;\
+    font-family: 'Sansita Swashed', cursive;
 }
 
 h1 {
