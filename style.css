@@ -1,15 +1,35 @@
+/* Website Styles! */
+*{
+  font-size: 100%;
+}
+
 body {
     background-color: PapayaWhip;
-    color: palegreen;
+    color: black;
     font-family: 'Secular One', sans-serif;
+    font-size: 14px;
+}
+
+h1, h2, h3 {
+  font-weight: bold;
 }
 
 h1 {
   color: red;
+  font-size: 36px;
 }
 
 h2 {
   color: darkorange;
+  font-size: 24px;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+p {
+  font-family: 'Josefin Sans', sans-serif;
 }
 
 p {
@@ -18,8 +38,4 @@ p {
 
 footer {
   color: red;
-}
-
-p {
-  font-family: 'Josefin Sans', sans-serif;
 }
