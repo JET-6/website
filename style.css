@@ -16,9 +16,13 @@ h1, h2, h3 {
 }
 
 h1 {
-  text-align: center;
+  text-align: left;
   color: red;
   font-size: 36px;
+}
+
+header h1 {
+  text-align: center;
 }
 
 h2 {
