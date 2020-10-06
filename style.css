@@ -45,6 +45,13 @@ p {
 p {
   line-height: 2;
 }
+
+a {
+  color: red;
+  text-decoration: none;
+}
+]
+
 footer {
   color: red;
 }
