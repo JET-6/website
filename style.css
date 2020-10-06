@@ -37,6 +37,9 @@ p {
   color: limegreen;
 }
 
+p {
+  line-height: 2;
+}
 footer {
   color: red;
 }
