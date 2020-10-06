@@ -36,13 +36,7 @@ h3 {
 
 p {
   font-family: 'Piazzolla', serif;
-}
-
-p {
   color: limegreen;
-}
-
-p {
   line-height: 2;
 }
 
@@ -50,8 +44,11 @@ a {
   color: red;
   text-decoration: none;
 }
-]
+
+a:hover {
+  text-decoration: underline;
+}
 
 footer {
-  color: red;
+  color: blue;
 }
