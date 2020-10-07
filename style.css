@@ -1,6 +1,14 @@
 /* Website Styles! */
 *{
   font-size: 100%;
+  margin: 0;
+  line-height: 1;
+  /* border: 1px solid red; */
+
+}
+
+header {
+    border-bottom: 5px solid red;
 }
 
 body {
@@ -10,9 +18,23 @@ body {
     font-size: 14px;
 }
 
+header,
+section,
+footer {
+  padding: 30px;
+}
+
+section {
+  border: 1px solid gainsboro;
+  background-color: white;
+  margin: 30px;
+  padding: 30px;
+}
+
 h1, h2, h3 {
   font-weight: bold;
   font-style: oblique;
+  margin-bottom: 20px;
 }
 
 h1 {
@@ -38,6 +60,11 @@ p {
   font-family: 'Piazzolla', serif;
   color: limegreen;
   line-height: 2;
+  margin: 15px 0;
+}
+
+ul, ol {
+  margin: 15px 0;
 }
 
 a {
