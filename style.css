@@ -6,6 +6,11 @@
   box-sizing: border-box;
   /* border: 1px solid red; */
 }
+/* learning some class selector stuff */
+.title {
+  font-size: 48px;
+  text-decoration: underline;
+}
 
 img {
   height: 300px;
