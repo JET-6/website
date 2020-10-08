@@ -16,6 +16,7 @@
 /* learning some div class container stuff */
 .container {
   max-width: 1000px;
+  margin: 0 auto;
 }
 
 img {
@@ -27,6 +28,7 @@ header {
 }
 
 body {
+    background-image: url(images/dbl-bbl.png);
     background-color: PapayaWhip;
     color: black;
     font-family: 'Roboto', sans-serif;
