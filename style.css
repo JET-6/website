@@ -29,6 +29,7 @@ header {
 
 body {
     background-image: url(images/dbl-bbl.png);
+    background-repeat: repeat;
     background-color: PapayaWhip;
     color: black;
     font-family: 'Roboto', sans-serif;
