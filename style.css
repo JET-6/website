@@ -12,6 +12,7 @@
   height: 350px;
   background-image: url(images/catdog.jpg);
   background-size: cover;
+  background-position: center;
 }
 
 /* learning some class selector stuff */
