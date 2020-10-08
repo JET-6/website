@@ -6,11 +6,14 @@
   box-sizing: border-box;
   /* border: 1px solid red; */
 }
+
 /* adding a banner */
 .banner {
   height: 350px;
   background-image: url(images/catdog.jpg);
+  background-size: cover;
 }
+
 /* learning some class selector stuff */
 .title {
   font-size: 48px;
