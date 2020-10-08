@@ -13,6 +13,11 @@
   color: blue;
 }
 
+/* learning some div class container stuff */
+.container {
+  max-width: 1000px;
+}
+
 img {
   height: 300px;
 }
